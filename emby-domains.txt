@@ -1,0 +1,42 @@
+# Title: Emby Server Domain List
+# Description: A list of domains related to Emby for filtering.
+# Last Updated: 2025-11-17
+# Version: 1.0
+# Count: 35
+
+10520.xyz
+candytallymovie.vip
+ciallo.party
+emby.191920.xyz
+emby.bangumi.ca
+emby.carlos.trade
+emby.feiniu.lol
+emby.hohai.eu.org
+emby.ifvip.vip
+emby.kongcheng666.dpdns.org
+emby.yixia.io
+emby2.69yun69.com
+emby3.69yun69.com
+emby3.mcjoker.xyz
+embymv.link
+emos.lol
+fworks-emby.webn.cc
+free4.28.al
+hka-emby.aliz.work
+ichinosekotomi.191920.xyz
+lite.cn2gias.uk
+lite.liminalnet.com
+media.nijigem.by
+mpcs.mebimmer.de
+mperformance.mebimmer.de
+playz.mjji.de
+public.shrekmedia.org
+qqpyf.top
+rn.chilledmelon.com
+shouer.910427.xyz
+spcs.mebimmer.de
+sport.mebimmer.de
+test.feiniu.lol
+tufei.de
+us.nomaba.com
+xg.kongcheng666.dpdns.org
