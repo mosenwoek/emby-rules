@@ -1,8 +1,4 @@
-# Title: Emby Server Domain List
-# Description: A list of domains related to Emby for filtering.
-# Last Updated: 2025-11-17
-# Version: 1.0
-# Count: 35
+
 
 a.l0323.top
 10520.xyz
