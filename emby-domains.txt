@@ -21,6 +21,7 @@ DOMAIN,embymv.link
 DOMAIN,emos.lol
 DOMAIN,fworks-emby.webn.cc
 DOMAIN,free4.28.al
+DOMAIN,gm.yezi.my
 DOMAIN,hka-emby.aliz.work
 DOMAIN,ichinosekotomi.191920.xyz
 DOMAIN,link00.okemby.org
