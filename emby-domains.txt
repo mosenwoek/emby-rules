@@ -18,6 +18,7 @@ DOMAIN,emby2.69yun69.com
 DOMAIN,emby3.69yun69.com
 DOMAIN,emby3.mcjoker.xyz
 DOMAIN,embymv.link
+DOMAIN,embyty.entertang.work
 DOMAIN,emos.lol
 DOMAIN,fworks-emby.webn.cc
 DOMAIN,free4.28.al
