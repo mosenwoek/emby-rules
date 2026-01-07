@@ -9,6 +9,7 @@ DOMAIN,emby.191920.xyz
 DOMAIN,emby.bangumi.ca
 DOMAIN,emby.carlos.trade
 DOMAIN,emby.feiniu.lol
+DOMAIN,emby.gousen.cc.cd
 DOMAIN,emby.hohai.eu.org
 DOMAIN,emby.ifvip.vip
 DOMAIN,embyw666.kongcheng666.dpdns.org
