@@ -24,6 +24,7 @@ DOMAIN,emos.lol
 DOMAIN,fworks-emby.webn.cc
 DOMAIN,free4.28.al
 DOMAIN,gm.yezi.my
+DOMAIN,hao5.de
 DOMAIN,hka-emby.aliz.work
 DOMAIN,ichinosekotomi.191920.xyz
 DOMAIN,link00.okemby.org
@@ -47,6 +48,7 @@ DOMAIN,test.feiniu.lol
 DOMAIN,tufei.de
 DOMAIN,us.nomaba.com
 DOMAIN,xg.kongcheng666.dpdns.org
+DOMAIN,yong9.de
 
 #DOMAIN-SUFFIX 后缀匹配
 
