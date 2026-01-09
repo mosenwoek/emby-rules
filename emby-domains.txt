@@ -1,9 +1,9 @@
 #DOMAIN 精确匹配域名
 
-DOMAIN,a.l0323.top
 DOMAIN,10520.xyz
 DOMAIN,candytallymovie.vip
 DOMAIN,ciallo.party
+DOMAIN,e.iemby.cn:2000
 DOMAIN,embygy.ichinosekotomi.com
 DOMAIN,emby.191920.xyz
 DOMAIN,emby.bangumi.ca
@@ -55,6 +55,7 @@ DOMAIN,yong9.de
 
 DOMAIN-SUFFIX,69yun69.com
 DOMAIN-SUFFIX,mebimmer.de
+DOMAIN-SUFFIX,l0323.top
 DOMAIN-SUFFIX,191920.xyz
 DOMAIN-SUFFIX,kongcheng666.dpdns.org
 DOMAIN-SUFFIX,sfcj.org
