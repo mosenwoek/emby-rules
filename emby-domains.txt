@@ -53,6 +53,7 @@ DOMAIN,yong9.de
 
 #DOMAIN-SUFFIX 后缀匹配
 
+DOMAIN-SUFFIX,mosen1.ggff.net
 DOMAIN-SUFFIX,69yun69.com
 DOMAIN-SUFFIX,mebimmer.de
 DOMAIN-SUFFIX,l0323.top
