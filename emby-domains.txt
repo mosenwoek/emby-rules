@@ -23,6 +23,7 @@ DOMAIN,emby3.mcjoker.xyz
 DOMAIN,embymv.link
 DOMAIN,embyty.entertang.work
 DOMAIN,emos.lol
+DOMAIN,faemby.vip
 DOMAIN,fworks-emby.webn.cc
 DOMAIN,free4.28.al
 DOMAIN,gm.yezi.my
