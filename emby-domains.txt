@@ -56,7 +56,8 @@ DOMAIN,yong9.de
 
 #DOMAIN-SUFFIX 后缀匹配
 
-
+DOMAIN-SUFFIX,lyezi.cc
+DOMAIN-SUFFIX,lyezi.xyz
 DOMAIN-SUFFIX,gousen.cc.cd
 DOMAIN-SUFFIX,mosen1.ggff.net
 DOMAIN-SUFFIX,69yun69.com
