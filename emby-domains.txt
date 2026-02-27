@@ -58,12 +58,14 @@ DOMAIN,yong9.de
 
 #DOMAIN-SUFFIX 后缀匹配
 
+
 DOMAIN-SUFFIX,emby.yun
 DOMAIN-SUFFIX,lyezi.cc
 DOMAIN-SUFFIX,lyezi.xyz
 DOMAIN-SUFFIX,gousen.cc.cd
 DOMAIN-SUFFIX,hohai.eu.org
 DOMAIN-SUFFIX,mosen1.ggff.net
+DOMAIN-SUFFIX,007.us.kg
 DOMAIN-SUFFIX,69yun69.com
 DOMAIN-SUFFIX,mebimmer.de
 DOMAIN-SUFFIX,l0323.top
