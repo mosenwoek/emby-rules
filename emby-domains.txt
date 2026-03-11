@@ -4,6 +4,7 @@ DOMAIN,10520.xyz
 DOMAIN,candytallymovie.vip
 DOMAIN,ciallo.party
 DOMAIN,e.iemby.cn:2000
+DOMAIN,embyk.ucloudhost.top
 DOMAIN,emby.4348663.xyz
 DOMAIN,embygy.ichinosekotomi.com
 DOMAIN,emby.191920.xyz
@@ -77,5 +78,6 @@ DOMAIN-SUFFIX,sfcj.org
 
 #DOMAIN-KEYWORD 关键词匹配
 
+DOMAIN-KEYWORD,emby
 DOMAIN-KEYWORD,ichinosekotomi
 DOMAIN-KEYWORD,chilledmelon
