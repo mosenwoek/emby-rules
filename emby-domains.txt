@@ -1,6 +1,7 @@
 #DOMAIN 精确匹配域名
 
 DOMAIN,10520.xyz
+DOMAIN,101514.xyz
 DOMAIN,candytallymovie.vip
 DOMAIN,ciallo.party
 DOMAIN,e.iemby.cn:2000
