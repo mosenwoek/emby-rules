@@ -28,6 +28,7 @@ DOMAIN,embyty.entertang.work
 DOMAIN,emos.lol
 DOMAIN,faemby.vip
 DOMAIN,fd1.kingemby.xyz
+DOMAIN,freestream.startspoint.com  #起点公益2推流地址
 DOMAIN,fworks-emby.webn.cc
 DOMAIN,free4.28.al
 DOMAIN,gm.yezi.my
