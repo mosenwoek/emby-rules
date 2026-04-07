@@ -82,7 +82,7 @@ DOMAIN-SUFFIX,kongcheng666.dpdns.org
 DOMAIN-SUFFIX,sfcj.org
 
 #DOMAIN-KEYWORD 关键词匹配
-
+DOMAIN-KEYWORD,emby.yet.xx.kg
 DOMAIN-KEYWORD,emby
 DOMAIN-KEYWORD,emos
 DOMAIN-KEYWORD,ichinosekotomi
