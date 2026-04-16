@@ -47,6 +47,7 @@ DOMAIN,mpcs.mebimmer.de
 DOMAIN,mperformance.mebimmer.de
 DOMAIN,mi.miraiemby.com
 DOMAIN,niao.007.us.kg
+DOMAIN,play.chilledmelon.com
 DOMAIN,playz.mjji.de
 DOMAIN,public.shrekmedia.org
 DOMAIN,qqpyf.top
