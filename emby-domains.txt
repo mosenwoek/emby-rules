@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,101514.xyz
 DOMAIN-SUFFIX,28.al
 DOMAIN-SUFFIX,kongcheng666.dpdns.org
 DOMAIN-SUFFIX,sfcj.org
+DOMAIN-SUFFIX,taotu.ink
 
 #DOMAIN-KEYWORD 关键词匹配
 DOMAIN-KEYWORD,emby.yet.xx.kg
