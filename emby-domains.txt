@@ -26,7 +26,9 @@ DOMAIN,emby3.mcjoker.xyz
 DOMAIN,embymv.link
 DOMAIN,embyty.entertang.work
 DOMAIN,emos.lol
+DOMAIN,emby.n150.asia
 DOMAIN,emby.taotu.ink
+DOMAIN,emby.yusen6.ccwu.cc
 DOMAIN,faemby.vip
 DOMAIN,fd1.kingemby.xyz
 #起点公益2推流地址
