@@ -43,6 +43,7 @@ DOMAIN,ichinosekotomi.191920.xyz
 DOMAIN,link00.okemby.org
 DOMAIN,lite.cn2gias.uk
 DOMAIN,lite.liminalnet.com
+DOMAIN,lunarisvault.com
 DOMAIN,mecf.mebimmer.de
 DOMAIN,meenjoy.mebimmer.de
 DOMAIN,media.nijigem.by
