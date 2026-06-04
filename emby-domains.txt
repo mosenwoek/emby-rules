@@ -13,6 +13,7 @@ DOMAIN,emby.bangumi.ca
 DOMAIN,emby.carlos.trade
 DOMAIN,emby.feiniu.lol
 DOMAIN,emby.levilde.bond
+DOMAIN,emby.misaka.si
 DOMAIN,emby.mm880.xyz
 DOMAIN,emby.gousen.cc.cd
 DOMAIN,emby.hohai.eu.org
