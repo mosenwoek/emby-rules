@@ -28,6 +28,7 @@ DOMAIN,embymv.link
 DOMAIN,embyty.entertang.work
 DOMAIN,emos.lol
 DOMAIN,emby.n150.asia
+DOMAIN,emby.syemby.com
 DOMAIN,emby.taotu.ink
 DOMAIN,emby.yusen6.ccwu.cc
 DOMAIN,faemby.vip
