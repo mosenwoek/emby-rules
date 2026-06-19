@@ -6,6 +6,7 @@ DOMAIN,candytallymovie.vip
 DOMAIN,ciallo.party
 DOMAIN,e.iemby.cn:2000
 DOMAIN,nemby.ucloudhost.top
+DOMAIN,eb.zzm.li
 DOMAIN,emby.4348663.xyz
 DOMAIN,embygy.ichinosekotomi.com
 DOMAIN,emby.191920.xyz
