@@ -48,6 +48,7 @@ DOMAIN,lite.cn2gias.uk
 DOMAIN,lite.liminalnet.com
 DOMAIN,lunarisvault.com
 DOMAIN,mecf.mebimmer.de
+DOMAIN,media.meby.pro
 DOMAIN,meenjoy.mebimmer.de
 DOMAIN,media.nijigem.by
 DOMAIN,mpcs.mebimmer.de
